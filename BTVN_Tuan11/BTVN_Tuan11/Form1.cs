@@ -1,0 +1,116 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace BTVN_Tuan11
+{
+    public partial class Form1 : Form
+    {
+        CSDL dl = new CSDL();
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        public void loadKhoa()
+        {
+            cboKhoa.DataSource = dl.LoadKhoa();
+            cboKhoa.ValueMember = "MaKhoa";
+            cboKhoa.DisplayMember = "TenKhoa";
+        }
+
+        public void loadLop()
+        {
+            dataGridView1.DataSource = dl.LoadLop();
+        }
+
+        public void enableTxt(bool t)
+        {
+            txtMaLop.Enabled = txtTenLop.Enabled = cboKhoa.Enabled = t;
+        }
+
+        public void bingDing(DataTable pData)
+        {
+            txtMaLop.DataBindings.Clear();
+            txtTenLop.DataBindings.Clear();
+            cboKhoa.DataBindings.Clear();
+
+            txtMaLop.DataBindings.Add("text",pData, "MaLop");
+            txtTenLop.DataBindings.Add("text", pData, "TenLop");
+            cboKhoa.DataBindings.Add("SelectedValue", pData, "MaKhoa");
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            loadKhoa();
+            loadLop();
+            enableTxt(false);
+            btnSua.Enabled = btnXoa.Enabled = btnLuu.Enabled = false;
+            dataGridView1.ReadOnly = true;
+            dataGridView1.AllowUserToAddRows = false;
+            bingDing(dl.LoadLop());
+        }
+
+        private void btnDong_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void btnThem_Click(object sender, EventArgs e)
+        {
+            btnLuu.Enabled = true;
+            dataGridView1.ReadOnly = false;
+            dataGridView1.AllowUserToAddRows = true;
+            for (int i = 0; i < dataGridView1.Rows.Count-1; i++)
+            {
+                dataGridView1.Rows[i].ReadOnly = true;
+            }
+            dataGridView1.FirstDisplayedScrollingRowIndex = dataGridView1.Rows.Count - 1;
+        }
+
+        private void dataGridView1_SelectionChanged(object sender, EventArgs e)
+        {
+            btnSua.Enabled = btnXoa.Enabled = true;
+        }
+
+        private void btnSua_Click(object sender, EventArgs e)
+        {
+            btnLuu.Enabled = true;
+            dataGridView1.ReadOnly = false;
+            for (int i = 0; i < dataGridView1.Rows.Count-1; i++)
+            {
+                dataGridView1.Rows[i].ReadOnly = false;
+            }
+            dataGridView1.Columns[0].ReadOnly = true;
+            dataGridView1.AllowUserToAddRows = false;
+        }
+
+        private void btnLuu_Click(object sender, EventArgs e)
+        {
+            if (dl.LuuLop())
+                MessageBox.Show("Thành công");
+            else
+                MessageBox.Show("Thất bại");
+            bingDing(dl.LoadLop());
+            btnLuu.Enabled = false;
+        }
+
+        private void btnXoa_Click(object sender, EventArgs e)
+        {
+            DialogResult r = MessageBox.Show("Bạn có muốn xóa?", "", MessageBoxButtons.YesNo,MessageBoxIcon.Question);
+            if (r == DialogResult.No)
+                return;
+            string MaSV = dataGridView1.CurrentRow.Cells[0].Value.ToString();
+            if (dl.xoaLop(MaSV))
+                MessageBox.Show("Thành công");
+            else
+                MessageBox.Show("Thất bại");
+        }
+    }
+}

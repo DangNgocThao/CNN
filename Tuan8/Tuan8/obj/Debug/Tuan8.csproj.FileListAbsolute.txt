@@ -1,0 +1,10 @@
+E:\LUUDULIEUSINHVIEN\DangNgocThao\Tuan8\Tuan8\bin\Debug\Tuan8.exe.config
+E:\LUUDULIEUSINHVIEN\DangNgocThao\Tuan8\Tuan8\bin\Debug\Tuan8.exe
+E:\LUUDULIEUSINHVIEN\DangNgocThao\Tuan8\Tuan8\bin\Debug\Tuan8.pdb
+E:\LUUDULIEUSINHVIEN\DangNgocThao\Tuan8\Tuan8\obj\Debug\Tuan8.Properties.Resources.resources
+E:\LUUDULIEUSINHVIEN\DangNgocThao\Tuan8\Tuan8\obj\Debug\Tuan8.csproj.GenerateResource.Cache
+E:\LUUDULIEUSINHVIEN\DangNgocThao\Tuan8\Tuan8\obj\Debug\Tuan8.exe
+E:\LUUDULIEUSINHVIEN\DangNgocThao\Tuan8\Tuan8\obj\Debug\Tuan8.pdb
+E:\LUUDULIEUSINHVIEN\DangNgocThao\Tuan8\Tuan8\obj\Debug\Tuan8.Form2.resources
+E:\LUUDULIEUSINHVIEN\DangNgocThao\Tuan8\Tuan8\obj\Debug\Tuan8.Main.resources
+E:\LUUDULIEUSINHVIEN\DangNgocThao\Tuan8\Tuan8\obj\Debug\Tuan8.BT1.resources

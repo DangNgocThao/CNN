@@ -1,0 +1,11 @@
+D:\Backup\LT\CNN\BTVN_Tuan9\BTVN_Tuan9\bin\Debug\BTVN_Tuan9.exe.config
+D:\Backup\LT\CNN\BTVN_Tuan9\BTVN_Tuan9\bin\Debug\BTVN_Tuan9.exe
+D:\Backup\LT\CNN\BTVN_Tuan9\BTVN_Tuan9\bin\Debug\BTVN_Tuan9.pdb
+D:\Backup\LT\CNN\BTVN_Tuan9\BTVN_Tuan9\obj\Debug\BTVN_Tuan9.csproj.AssemblyReference.cache
+D:\Backup\LT\CNN\BTVN_Tuan9\BTVN_Tuan9\obj\Debug\BTVN_Tuan9.csproj.SuggestedBindingRedirects.cache
+D:\Backup\LT\CNN\BTVN_Tuan9\BTVN_Tuan9\obj\Debug\BTVN_Tuan9.Form1.resources
+D:\Backup\LT\CNN\BTVN_Tuan9\BTVN_Tuan9\obj\Debug\BTVN_Tuan9.Properties.Resources.resources
+D:\Backup\LT\CNN\BTVN_Tuan9\BTVN_Tuan9\obj\Debug\BTVN_Tuan9.csproj.GenerateResource.cache
+D:\Backup\LT\CNN\BTVN_Tuan9\BTVN_Tuan9\obj\Debug\BTVN_Tuan9.csproj.CoreCompileInputs.cache
+D:\Backup\LT\CNN\BTVN_Tuan9\BTVN_Tuan9\obj\Debug\BTVN_Tuan9.exe
+D:\Backup\LT\CNN\BTVN_Tuan9\BTVN_Tuan9\obj\Debug\BTVN_Tuan9.pdb

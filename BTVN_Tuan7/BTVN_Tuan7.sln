@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTVN_Tuan7", "BTVN_Tuan7\BTVN_Tuan7.csproj", "{0B49A45A-C988-4300-92E7-10FA46D6FC7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B49A45A-C988-4300-92E7-10FA46D6FC7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B49A45A-C988-4300-92E7-10FA46D6FC7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B49A45A-C988-4300-92E7-10FA46D6FC7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B49A45A-C988-4300-92E7-10FA46D6FC7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4D4A62E-8F2C-4674-AD21-F2E0D061D021}
+	EndGlobalSection
+EndGlobal

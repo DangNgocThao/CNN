@@ -1,0 +1,12 @@
+D:\Backup\LT\CNN\Tuan10\Tuan10\bin\Debug\Tuan10.exe.config
+D:\Backup\LT\CNN\Tuan10\Tuan10\bin\Debug\Tuan10.exe
+D:\Backup\LT\CNN\Tuan10\Tuan10\bin\Debug\Tuan10.pdb
+D:\Backup\LT\CNN\Tuan10\Tuan10\obj\Debug\Tuan10.csproj.AssemblyReference.cache
+D:\Backup\LT\CNN\Tuan10\Tuan10\obj\Debug\Tuan10.csproj.SuggestedBindingRedirects.cache
+D:\Backup\LT\CNN\Tuan10\Tuan10\obj\Debug\Tuan10.Form1.resources
+D:\Backup\LT\CNN\Tuan10\Tuan10\obj\Debug\Tuan10.Properties.Resources.resources
+D:\Backup\LT\CNN\Tuan10\Tuan10\obj\Debug\Tuan10.csproj.GenerateResource.cache
+D:\Backup\LT\CNN\Tuan10\Tuan10\obj\Debug\Tuan10.csproj.CoreCompileInputs.cache
+D:\Backup\LT\CNN\Tuan10\Tuan10\obj\Debug\Tuan10.exe
+D:\Backup\LT\CNN\Tuan10\Tuan10\obj\Debug\Tuan10.pdb
+D:\Backup\LT\CNN\Tuan10\Tuan10\obj\Debug\Tuan10.Form2.resources

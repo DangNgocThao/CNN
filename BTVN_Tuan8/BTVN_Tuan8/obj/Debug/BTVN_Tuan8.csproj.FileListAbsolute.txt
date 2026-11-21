@@ -1,0 +1,13 @@
+D:\Backup\LT\CNN\BTVN_Tuan8\BTVN_Tuan8\bin\Debug\BTVN_Tuan8.exe.config
+D:\Backup\LT\CNN\BTVN_Tuan8\BTVN_Tuan8\bin\Debug\BTVN_Tuan8.exe
+D:\Backup\LT\CNN\BTVN_Tuan8\BTVN_Tuan8\bin\Debug\BTVN_Tuan8.pdb
+D:\Backup\LT\CNN\BTVN_Tuan8\BTVN_Tuan8\obj\Debug\BTVN_Tuan8.csproj.AssemblyReference.cache
+D:\Backup\LT\CNN\BTVN_Tuan8\BTVN_Tuan8\obj\Debug\BTVN_Tuan8.csproj.SuggestedBindingRedirects.cache
+D:\Backup\LT\CNN\BTVN_Tuan8\BTVN_Tuan8\obj\Debug\BTVN_Tuan8.Form1.resources
+D:\Backup\LT\CNN\BTVN_Tuan8\BTVN_Tuan8\obj\Debug\BTVN_Tuan8.Properties.Resources.resources
+D:\Backup\LT\CNN\BTVN_Tuan8\BTVN_Tuan8\obj\Debug\BTVN_Tuan8.csproj.GenerateResource.cache
+D:\Backup\LT\CNN\BTVN_Tuan8\BTVN_Tuan8\obj\Debug\BTVN_Tuan8.csproj.CoreCompileInputs.cache
+D:\Backup\LT\CNN\BTVN_Tuan8\BTVN_Tuan8\obj\Debug\BTVN_Tuan8.exe
+D:\Backup\LT\CNN\BTVN_Tuan8\BTVN_Tuan8\obj\Debug\BTVN_Tuan8.pdb
+D:\Backup\LT\CNN\BTVN_Tuan8\BTVN_Tuan8\obj\Debug\BTVN_Tuan8.Form2.resources
+D:\Backup\LT\CNN\BTVN_Tuan8\BTVN_Tuan8\obj\Debug\BTVN_Tuan8.Main.resources

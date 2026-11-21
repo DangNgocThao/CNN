@@ -1,0 +1,17 @@
+D:\Backup\LT\CNN\BTVN_Tuan4\BTVN_Tuan4\bin\Debug\net6.0-windows\BTVN_Tuan4.exe
+D:\Backup\LT\CNN\BTVN_Tuan4\BTVN_Tuan4\bin\Debug\net6.0-windows\BTVN_Tuan4.deps.json
+D:\Backup\LT\CNN\BTVN_Tuan4\BTVN_Tuan4\bin\Debug\net6.0-windows\BTVN_Tuan4.runtimeconfig.json
+D:\Backup\LT\CNN\BTVN_Tuan4\BTVN_Tuan4\bin\Debug\net6.0-windows\BTVN_Tuan4.dll
+D:\Backup\LT\CNN\BTVN_Tuan4\BTVN_Tuan4\bin\Debug\net6.0-windows\BTVN_Tuan4.pdb
+D:\Backup\LT\CNN\BTVN_Tuan4\BTVN_Tuan4\obj\Debug\net6.0-windows\BTVN_Tuan4.csproj.AssemblyReference.cache
+D:\Backup\LT\CNN\BTVN_Tuan4\BTVN_Tuan4\obj\Debug\net6.0-windows\BTVN_Tuan4.Form1.resources
+D:\Backup\LT\CNN\BTVN_Tuan4\BTVN_Tuan4\obj\Debug\net6.0-windows\BTVN_Tuan4.csproj.GenerateResource.cache
+D:\Backup\LT\CNN\BTVN_Tuan4\BTVN_Tuan4\obj\Debug\net6.0-windows\BTVN_Tuan4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\LT\CNN\BTVN_Tuan4\BTVN_Tuan4\obj\Debug\net6.0-windows\BTVN_Tuan4.AssemblyInfoInputs.cache
+D:\Backup\LT\CNN\BTVN_Tuan4\BTVN_Tuan4\obj\Debug\net6.0-windows\BTVN_Tuan4.AssemblyInfo.cs
+D:\Backup\LT\CNN\BTVN_Tuan4\BTVN_Tuan4\obj\Debug\net6.0-windows\BTVN_Tuan4.csproj.CoreCompileInputs.cache
+D:\Backup\LT\CNN\BTVN_Tuan4\BTVN_Tuan4\obj\Debug\net6.0-windows\BTVN_Tuan4.dll
+D:\Backup\LT\CNN\BTVN_Tuan4\BTVN_Tuan4\obj\Debug\net6.0-windows\refint\BTVN_Tuan4.dll
+D:\Backup\LT\CNN\BTVN_Tuan4\BTVN_Tuan4\obj\Debug\net6.0-windows\BTVN_Tuan4.pdb
+D:\Backup\LT\CNN\BTVN_Tuan4\BTVN_Tuan4\obj\Debug\net6.0-windows\BTVN_Tuan4.genruntimeconfig.cache
+D:\Backup\LT\CNN\BTVN_Tuan4\BTVN_Tuan4\obj\Debug\net6.0-windows\ref\BTVN_Tuan4.dll

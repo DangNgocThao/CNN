@@ -1,0 +1,10 @@
+E:\LUUDULIEUSINHVIEN\Tuan14\Tuan14\bin\Debug\Tuan14.exe.config
+E:\LUUDULIEUSINHVIEN\Tuan14\Tuan14\bin\Debug\Tuan14.exe
+E:\LUUDULIEUSINHVIEN\Tuan14\Tuan14\bin\Debug\Tuan14.pdb
+E:\LUUDULIEUSINHVIEN\Tuan14\Tuan14\obj\Debug\Tuan14.csprojResolveAssemblyReference.cache
+E:\LUUDULIEUSINHVIEN\Tuan14\Tuan14\obj\Debug\Tuan14.Form1.resources
+E:\LUUDULIEUSINHVIEN\Tuan14\Tuan14\obj\Debug\Tuan14.Properties.Resources.resources
+E:\LUUDULIEUSINHVIEN\Tuan14\Tuan14\obj\Debug\Tuan14.csproj.GenerateResource.Cache
+E:\LUUDULIEUSINHVIEN\Tuan14\Tuan14\obj\Debug\Tuan14.exe
+E:\LUUDULIEUSINHVIEN\Tuan14\Tuan14\obj\Debug\Tuan14.pdb
+E:\LUUDULIEUSINHVIEN\Tuan14\Tuan14\obj\Debug\Tuan14.Form2.resources
